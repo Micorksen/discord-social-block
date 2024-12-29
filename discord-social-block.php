@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Discord Social Block
-Plugin URI:
+Plugin URI: https://github.com/Micorksen/discord-social-block
 Description: A plugin that adds a Discord social block to the Gutenberg editor.
 Author: Micorksen
 Version: 1.0
